@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.jumbotron.text-center.mt-2 {
+    background-image: url(images/AI.jpg);
+    color: #FFFFFF;
+}
